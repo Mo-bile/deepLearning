@@ -1,2 +1,3 @@
-#first-repository
-NEWNEWNEWNEW
+#파이썬 주피터노트북을 이용한 내용들
+
+### 프로젝트별로 대별되어있음
